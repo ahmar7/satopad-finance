@@ -1,0 +1,193 @@
+.project-syncera-slide__image {
+  background-image: url("../../../assets/img/syncera-ido-large.png");
+}
+
+.project-completed {
+  background: #198754 !important;
+}
+
+.no-projects-tile {
+  height: 400px;
+  padding: 46px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+}
+.projects-page .no-projects-tile {
+  height: 240px;
+}
+.no-projects-tile .dots {
+  margin-bottom: 26px;
+}
+.no-projects-tile .dots > div {
+  display: inline-block;
+  margin: 0 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  box-shadow: 0 4px 40px rgba(254, 150, 70, 0.4);
+}
+.no-projects-tile .dots > div:first-child {
+  background: linear-gradient(116.94deg, #ff7d61 14.14%, #fe9e46 87.43%);
+}
+.no-projects-tile .dots > div:nth-child(2) {
+  background: linear-gradient(116.94deg, #feb446 14.14%, #fe9e46 87.43%);
+}
+.no-projects-tile .dots > div:nth-child(3) {
+  background: linear-gradient(171.87deg, #ff6d6d -21.09%, #feb446 115.63%);
+}
+.projects-page .title:first-child {
+  position: relative;
+}
+.projects-live {
+  padding-top: 32px;
+  padding-bottom: 65px;
+}
+.projects-upcoming {
+  padding-top: 35px;
+  padding-bottom: 65px;
+}
+.projects-upcoming .ellipse22 {
+  left: unset;
+  right: 5%;
+  top: 40%;
+}
+.projects-upcoming .ellipse23 {
+  left: 28%;
+  top: unset;
+  bottom: 120px;
+}
+.projects-completed {
+  padding-top: 35px;
+  padding-bottom: 110px;
+}
+.projects-slider {
+  display: flex;
+  padding-left: 12px;
+  max-width: var(--container-sticky-max-width);
+  margin-left: auto;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.projects-slider__info {
+  width: 270px;
+  margin-right: 48px;
+}
+.projects-slider__info .title {
+  margin-bottom: 32px;
+}
+.projects-slider__pagination {
+  margin-bottom: 64px;
+}
+.projects-slider__pagination .swiper-pagination-bullet {
+  background: hsla(0, 0%, 100%, 0.3);
+  border-radius: 8px;
+  opacity: 1;
+  margin: 0 4px;
+  transition: 0.15s linear;
+}
+.projects-slider__pagination .swiper-pagination-bullet-active {
+  width: 40px;
+  background: var(--color-text-white);
+}
+.projects-slider-slides {
+  width: 100%;
+}
+.projects-slider .swiper-slide {
+  width: auto;
+  right: -2px !important;
+  transition: opacity 0.15s linear;
+}
+.projects-slider
+  .swiper-slide:not(
+    .swiper-slide-active,
+    .swiper-slide-next,
+    .swiper-slide-prev
+  ) {
+  opacity: 0.5;
+}
+.projects-slider__nav-next {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  right: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  cursor: pointer;
+}
+.projects-slider__nav-next svg path {
+  transition: 0.15s linear;
+}
+.projects-slider__nav-next:hover svg path {
+  fill: var(--color-text-violet);
+}
+.slick-arrow.slick-next {
+  display: block;
+  position: absolute;
+  right: 12px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 40px !important ;
+  line-height: 1;
+  content: ">" !important;
+  opacity: 1 !important;
+  font-family: cursive !important;
+  color: white;
+}
+.slick-dots {
+  bottom: -37px !important;
+}
+.slick-dots li.slick-active button:before {
+  color: white !important;
+}
+
+.slick-dots li button:before {
+  color: white !important;
+  font-size: 12px !important;
+}
+.projects-slider {
+  margin: 0 auto;
+}
+
+@media (max-width: 1160px) {
+  .projects-slider {
+    flex-direction: column;
+  }
+  .projects-slider__info {
+    width: 100% !important;
+    margin-right: 0 !important;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .homepage .features-section {
+    margin-bottom: 40px !important;
+  }
+  .coming-projects {
+    padding: 70px 0;
+    padding-bottom: 70px !important;
+  }
+  .slick-arrow.slick-next {
+    top: 220px !important;
+  }
+  .round-button.light.large.btn.btn-main.nop {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+@media (max-width: 600px) {
+  .project-slide__name {
+    font-size: 25px !important;
+    margin-bottom: 0 !important;
+  }
+}
+@media (max-width: 400px) {
+  .project-tag {
+    font-size: 12px !important;
+  }
+}

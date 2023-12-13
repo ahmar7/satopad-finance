@@ -1,0 +1,148 @@
+.partnerships-item {
+  width: 150px;
+}
+
+.icon-distance {
+  padding-right: 7.5px;
+}
+
+.icon-link:hover {
+  opacity: 0.8;
+}
+
+.powered-by-size {
+font-size: 16px !important;
+}
+
+.secondary-glow {
+  color: #F7931A !important;
+}
+
+.primary-glow {
+  background-image: linear-gradient(272.04deg,#8c8dfc 46.24%,#4e529a 99.45%) !important;
+}
+
+.top-banner__space {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: 50%;
+  z-index: -1;
+}
+.abs-content{
+  /* position: absolute; */
+  left: 0;
+  top: 0;
+  /* padding: 100px 0; */
+  right: 0;
+}
+.video-bg{
+  width: 100%;
+}
+.top-banner__cards-left,
+.top-banner__cards-right {
+  position: absolute;
+  width: 45%;
+  z-index: 0;
+  min-height: 400px;
+}
+@media (max-width: 1300px) {
+  .top-banner__cards-left,
+  .top-banner__cards-right {
+    min-height: 300px;
+  }
+}
+.top-banner__cards-left {
+  left: 0;
+  bottom: 0;
+}
+.top-banner__cards-right {
+  top: 0;
+  right: 0;
+}
+.top-banner__spaceman {
+  position: absolute;
+  top: 15%;
+  right: 40%;
+  width: 8%;
+  z-index: 1;
+  min-height: 100px;
+}
+.top-banner__shadow-bottom,
+.top-banner__shadow-top {
+  position: absolute;
+  width: 100%;
+  height: 40%;
+  z-index: 2;
+  background: linear-gradient(
+    180deg,
+    rgba(11, 11, 15, 0),
+    rgba(11, 11, 15, 0.59) 43.37%,
+    #0b0b0f 84.69%
+  );
+}
+.top-banner__shadow-top {
+  left: 0;
+  top: -100px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.top-banner__shadow-bottom {
+  bottom: -100px;
+  left: 0;
+}
+.top-banner{
+  overflow: hidden;
+position: relative;
+}
+.video-bg{
+  width:auto;
+  /* height: 100vh; */
+   position: absolute;
+  top: 0;
+  left: 0;
+  height: fit-content;
+}
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 1200px) {
+  .video-bg{
+  width:max-content;
+}
+}
+@media (max-width: 600px) {
+  .video-bg{display: none;}
+  /*.homepage .hero-row h1.title {
+    font-size: 30px !important;
+  }*/
+  /*.hero-row .subtitle {
+    font-size: 28px !important;
+    line-height: 1 !important;
+  }*/
+  .round-button.large {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    line-height: 32px !important;
+  }
+  .buy-flame-dropdown .dropdown-toggle {
+    padding: 2px 12px !important;
+  }
+}
+@media (max-width: 440px) {
+  .hero-row .hero-buttons {
+    flex-direction: column;
+  }
+  .buy-flame-dropdown .dropdown-toggle {
+    justify-content: center;
+    line-height: normal;
+    padding: 15px 0 !important;
+  }
+  .round-button.large {
+    padding: 15px 0 !important;
+    line-height: normal !important;
+  }
+}

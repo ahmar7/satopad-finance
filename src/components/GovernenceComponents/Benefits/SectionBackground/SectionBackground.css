@@ -1,0 +1,125 @@
+.css-9xd9rb .governance-landing-benefits-rect-angle-1 {
+  position: absolute;
+  left: 0;
+  width: unset;
+  display: none;
+  top: 0;
+}
+
+.css-9xd9rb {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100vw;
+  margin: 0 auto;
+  margin-top: 64px;
+  margin-bottom: 76px;
+}
+ /* .Planet{
+  background-image: url(../../../../assets/img/landing-benefits-bg.png);
+ }
+  */
+.css-9xd9rb .governance-landing-benefits-rect-angle-5 {
+    position: absolute;
+    display: none;
+    top: 35%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+ 
+
+.css-9xd9rb .governance-landing-benefits-rect-angle-6 {
+    position: absolute;
+    left: 0;
+    width: unset;
+    display: none;
+    bottom: 0;
+}  
+
+
+.css-9xd9rb .governance-landing-benefits-rect-angle-7 {
+    position: absolute;
+    right: 0;
+    width: unset;
+    display: none;
+    bottom: 0;
+}
+@media screen and (min-width: 767px) {
+    .css-9xd9rb .governance-landing-benefits-rect-angle-7 {
+    width: 33px;
+    display: block;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-6 {
+    width: 33px;
+    display: block;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-5 {
+    display: block;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+    width: 33px;
+    display: block;
+}
+  .css-9xd9rb .governance-landing-benefits-rect-angle-1 {
+    width: 33px;
+    display: block;
+  }
+  .css-9xd9rb {
+    width: calc(100vw - 50px);
+    margin-top: 80px;
+    margin-bottom: 138px;
+  }
+}
+@media screen and (min-width: 1279px) {
+    .css-9xd9rb .governance-landing-benefits-rect-angle-7 {
+    width: 48px;
+    display: block;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-6 {
+    width: 48px;
+    display: block;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-5 {
+    display: none;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+    position: absolute;
+    right: 0;
+    width: unset;
+    display: none;
+    top: 0;
+}
+    .css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+    width: 48px;
+    display: block;
+}
+  .css-9xd9rb .governance-landing-benefits-rect-angle-1 {
+    width: 48px;
+    display: block;
+  }
+  .css-9xd9rb {
+    width: 100%;
+    margin-top: 112px;
+    margin-bottom: 176px;
+  }
+}

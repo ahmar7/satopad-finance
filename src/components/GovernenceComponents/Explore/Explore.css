@@ -1,0 +1,152 @@
+.css-1qrh3dn {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  position: relative;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  max-width: 1200px;
+  width: calc(100% - 32px);
+}
+
+.css-17lvh9k {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 16px;
+}
+
+.css-1bkwc2o {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 205px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1bkwc2o {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1bkwc2o {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-1bkwc2o {
+    width: 435px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1bkwc2o {
+    width: 435px;
+  }
+}
+
+
+.css-6djoym {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: none;
+  width: 205px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-6djoym {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-6djoym {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-6djoym {
+    width: 435px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-6djoym {
+    width: 435px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-17lvh9k {
+    padding-left: 92px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-17lvh9k {
+    padding-left: 102px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-1qrh3dn {
+    margin-bottom: 50px;
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1qrh3dn {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+}
+
+.css-1qrh3dn a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.css-ifrbtp {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 767px) {
+  .css-ifrbtp {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-ifrbtp {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}

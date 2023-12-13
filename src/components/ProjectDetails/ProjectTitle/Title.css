@@ -1,0 +1,54 @@
+.live-emphasis {
+    background: #5cc88d;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /*display: inline;*/
+    transform: translateY(-3px);
+    display: inline-block;
+    font-family: SpaceMono,sans-serif!important;
+    border-radius: 6px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.bg-price-box {
+    background: #F7931A !important;
+}
+
+.bg-\[\#F7F7F7\] {
+    background: #F7931A !important;
+}
+
+.bg-gradient-to-tr {
+    border: 2px solid #ffeeba;
+}
+
+.bg-pool-notification {
+    background: rgb(101, 31, 255) !important;
+    color: white;
+    border: 2px solid #ff9393 !important;
+}
+
+.unlock-text {
+    font-size: 18px !important;
+}
+
+.sera-count {
+    color: #BDBDBD;
+}
+
+.project-bg-color {
+    background: #311B92 !important;
+}
+
+.smflex{
+    display: flex;
+}.token-bg{
+    background-image: url("../../../assets/img/logo-icon.png") !important; 
+    border-radius: 50%;
+}

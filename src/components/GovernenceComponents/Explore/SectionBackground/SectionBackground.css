@@ -1,0 +1,230 @@
+
+.css-1s9az8w {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: none;
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  fill: #f0f0f5;
+  fill: none;
+  width: 1238px;
+  height: 955px;
+  position: absolute;
+  left: unset;
+  top: unset;
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1s9az8w {
+    left: -15%;
+    top: -120%;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1s9az8w {
+    left: -80%;
+    top: -45%;
+    display: block;
+  }
+}
+.css-1wdcad0 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1wdcad0 {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1wdcad0 {
+    display: block;
+  }
+}
+.css-1r2xpch {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1r2xpch {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1r2xpch {
+    display: block;
+  }
+}
+.css-bg410c {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-bg410c {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-bg410c {
+    display: none;
+  }
+}
+.css-tpqbpo {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  -webkit-transform: scale(-1);
+  -ms-transform: scale(-1);
+  transform: scale(-1);
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-tpqbpo {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-tpqbpo {
+    display: none;
+  }
+}
+.css-zfyvl1 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  -webkit-transform: scale(0.6);
+  -ms-transform: scale(0.6);
+  transform: scale(0.6);
+  display: block;
+}
+
+@media screen and (min-width: 767px) {
+  .css-zfyvl1 {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-zfyvl1 {
+    display: none;
+  }
+}
+.css-f67my7 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 11px;
+  height: 11px;
+  font-size: 11px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  -webkit-transform: rotate(90deg) scale(0.6);
+  -ms-transform: rotate(90deg) scale(0.6);
+  transform: rotate(90deg) scale(0.6);
+  display: block;
+}
+
+@media screen and (min-width: 767px) {
+  .css-f67my7 {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-f67my7 {
+    display: none;
+  }
+}
+
+.css-1qrh3dn .governance-landing-explore-intro .governance-landing-explore-intro-union-rect {
+    position: absolute;
+    left: 88px;
+    bottom: 48px;
+    display: none;
+}
+
+.css-1qrh3dn .governance-landing-explore-intro svg {
+    pointer-events: none;
+}
+@media screen and (min-width: 767px)
+{.css-1qrh3dn .governance-landing-explore-intro .governance-landing-explore-intro-union-rect {
+    display: none;
+}}
+@media screen and (min-width: 1279px)
+{.css-1qrh3dn .governance-landing-explore-intro .governance-landing-explore-intro-union-rect {
+    display: block;
+}}

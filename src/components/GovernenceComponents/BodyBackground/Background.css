@@ -1,0 +1,78 @@
+.governance{
+  background-image: url(../../../assets/img/launchpad-bg-2.png);
+  position: relative;
+  padding-top: 85px;
+}
+.governance .footer{
+  background-color: #171822;
+}
+.css-dy23sn {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+.css-dy23sn .bg1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 868px;
+    height: 631px;
+    pointer-events: none;
+}
+.css-1rl9kp6 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: currentColor;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #F0F0F5;
+    fill: currentColor;
+    width: 868;
+    height: 631;
+}.css-dy23sn .bg2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 1243px;
+    height: 392px;
+    pointer-events: none;
+}
+.css-8l2ygp {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: currentColor;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #F0F0F5;
+    fill: currentColor;
+    width: 1243;
+    height: 392;
+}.css-dy23sn .bg3 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 854px;
+    height: 479px;
+    pointer-events: none;
+}
+.css-7psiy8 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: currentColor;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #F0F0F5;
+    fill: currentColor;
+    width: 854;
+    height: 479;
+}

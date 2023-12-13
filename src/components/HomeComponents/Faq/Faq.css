@@ -1,0 +1,98 @@
+.faq-bg {
+  background: #F7931A !important;
+}
+
+.emphasize-link {
+  text-decoration: underline !important;
+  color: #f7931a;
+}
+
+.emphasize-link:hover {
+  color: #651FFF !important; 
+  opacity: 0.8;
+}
+
+.faqs-title {
+  font-size: 50px !important;
+}
+
+.faq-section {
+  padding-top: 90px;
+  padding-bottom: 76px;
+}
+.faq-column .title {
+  font-family: Archivo;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 126%;
+  color: #fff;
+  margin-bottom: 26px;
+}
+.faq-column .round-button {
+  margin-top: 24px;
+}
+.card.accordion span {
+  display: block;
+}
+.card.accordion {
+  font-size: 18px;
+  background: #23282f;
+  box-shadow: 0 14px 100px rgba(0, 0, 0, 0.15);
+  border-radius: 26px;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.card.accordion .collapse {
+  padding-top: 0;
+  line-height: 150%;
+}
+.card.accordion .card-header {
+  background: #F7931A;
+  border: 0;
+  padding: 0;
+}
+.card.accordion .btn {
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  width: 100% !important;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: var(--color-text-white);
+  padding: 32px 36px;
+}
+.card.accordion .btn span {
+  transition: 0.3s linear;
+}
+.card.accordion .btn.active {
+  color: white;
+  font-weight: bold;
+}
+.card.accordion .btn.active svg path {
+  fill: var(--color-text-violet);
+}
+.card.accordion .btn.active span {
+  transform: rotate(180deg);
+}
+.card.accordion .card-body {
+  padding: 0 8rem 2.25rem 2.25rem;
+  background: #F7931A;
+}
+@media (max-width:600px) {
+  .card.accordion .btn {
+    display: flex;
+    text-align: left;
+    align-self: center;
+    align-items: center;
+    
+    font-size: 17px;
+    
+    padding: 32px 19px;
+}.card.accordion .card-body {
+    padding: 0 1rem !important;
+}
+  
+}

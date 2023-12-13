@@ -1,0 +1,22 @@
+.footer-copyrights,
+.quantstamp-marks li a,
+.quantstamp-marks li span {
+  color: var(--color-text-white-transparantize);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quantstamp-marks a img {
+  opacity: 0.44;
+  margin-left: 8px;
+  transition: 0.15s linear;
+}
+.quantstamp-marks a:hover {
+  color: var(--color-text-white);
+}
+.quantstamp-marks a:hover img {
+  opacity: 1;
+}
+.quantstamp-marks li + li {
+  margin-left: 12px;
+}

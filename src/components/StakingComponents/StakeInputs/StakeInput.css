@@ -1,0 +1,90 @@
+.syncera-warning {
+    background: #fff3cd;
+    color: black;
+    font-weight: bold;
+    border: 1px solid #ffeeba;
+    border-radius: 5px;
+}
+
+tr:last-child td[data-v-290846d6]:first-child {
+    border-bottom-left-radius: 20px
+}
+
+tr:last-child td[data-v-290846d6]:last-child {
+    border-bottom-right-radius: 20px
+}
+
+.staking input:focus,.staking input:focus-visible,.staking input:focus-within {
+    border: none!important
+}
+
+.staking input:hover {
+    -webkit-appearance: none;
+    margin: 0
+}
+
+.staking input:hover,.staking input[type=number] {
+    -moz-appearance: textfield
+}
+
+.staking input::-webkit-inner-spin-button,.staking input::-webkit-outer-spin-button {
+    -webkit-appearance: none
+}
+
+.staking-box {
+    border: 1px solid rgba(78,62,125,.3)
+}
+
+[contenteditable=true]:empty:before {
+    color: gray;
+    content: attr(data-ph);
+    font-style: italic
+}
+.no-pading{
+    padding: 0;
+}
+.stake-details{
+    margin: 0 !important;
+}
+.staking-box button{
+    border: none;
+}
+.border-round{
+    border-radius:30px ;
+}
+.new-tier{
+    background-color: #f7931a !important;
+    border: 2px solid #f7931a !important;
+}
+.no-shadow{
+    box-shadow: none !important;
+}
+.text-red-500 { 
+    color: rgb(239 68 68);
+}
+.f-black{
+    color: black;
+    font-size: 1.4rem;
+    right: 16px;
+    
+    position: absolute;
+
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+}
+.grow .my-5{
+    margin-bottom: 1.25rem !important;
+    margin-top: 1.25rem !important;
+}
+.active-tier{
+    border: 2px solid #fff3cd !important;
+}
+@media (max-width:768px) {
+    .new-tier.stake-details
+    {
+        margin-top: 20px !important;
+    }
+}

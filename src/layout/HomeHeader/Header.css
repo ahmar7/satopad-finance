@@ -1,0 +1,130 @@
+.header-logo {
+  height: 60px !important;
+}
+
+.header {
+  position: absolute;
+  z-index: 99999;
+  /* background-color: black; */
+  padding-bottom: 10px;
+  top
+  :0
+}
+.sticky-head{
+  position: fixed;
+  top: 0;
+   animation: mymove 1s forwards;
+  background-color: #1e110e;
+}
+.header__connect-wallet span {
+  background-color: hsla(0, 0%, 100%, 0.1);
+  text-transform: none;
+  display: block;
+  padding: inherit;
+  border-radius: inherit;
+}
+.header__connect-wallet span,
+.scroll-to-top {
+  -webkit-backdrop-filter: blur(40px);
+  backdrop-filter: blur(40px);
+}
+.project-top{
+  margin-top: 5rem;
+}
+.overlay-active {
+  height: 100vh;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  z-index: 2;
+}
+.nav-dropdown__menu.dropdown-menu {
+  z-index: 99999999 !important;
+}
+.hide-desk {
+  display: none;
+}
+
+@media (max-width: 1124px) {
+  .header-logo {
+    width: 200px;
+  }
+  .navbar .nav-link {
+    padding: 0;
+    font-size: 14px;
+  }
+  .header .round-button.header__nav-button {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+  .header .round-button.btn {
+    line-height: 32px !important;
+  }
+  .header__connect-wallet span {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+  }
+}
+
+/* @media (max-width: 950px) {
+  
+  .navbar-collapse {
+    gap: 8px !important;
+    margin-top: 5px;
+  }
+  .header-logo {
+    width: 150px;
+  }
+} */
+@media (max-width: 820px) {
+  .header-logo {
+    width: 220px;
+  }
+  .hide-desk {
+    display: block;
+  }
+  .navbar {
+    justify-content: space-between !important;
+  }
+  .hamburger-ico i {
+    font-size: 25px;
+    margin-top: 12px;
+  }
+  .show-nav {
+    position: absolute;
+    flex-direction: column;
+    top: 76px;
+    background: black;
+    width: calc(100% + 1.5rem);
+    /* padding: 20px 0; */
+    left: -0.75rem;
+    height: 0px;
+    transition: all 0.3s ease;
+    overflow: hidden;
+  }
+  /* .no-height {
+    height: 0px;
+    overflow: hidden;
+  } */
+  .full-height {
+    transition: all 0.3s ease;
+    height: 265px !important;
+    padding-bottom: 20px;
+    overflow: initial !important;
+  }
+  .mbl-hide {
+    display: none !important;
+  }
+  .navbar-collapse {
+    gap: 10px !important;
+  }
+  .nav-dropdown.dropdown {
+    margin-bottom: 10px;
+  }
+}
+
+@keyframes mymove {
+  from {top: -100px;}
+  to {top: 0px;}
+}

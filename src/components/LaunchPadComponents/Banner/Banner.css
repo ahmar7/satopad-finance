@@ -1,0 +1,235 @@
+.top-150 {
+  margin-top: 150px;
+}
+.leading-\[80\%\] {
+  line-height: 80% !important;
+}
+.uppercase {
+  text-transform: uppercase !important;
+}
+.font-bold {
+  font-weight: 700 !important;
+}
+
+.text-\[60px\] {
+  font-size: 60px !important;
+}
+
+.gap-14 {
+  gap: 3.5rem !important;
+}
+
+.gap-3 {
+  gap: 0.75rem !important;
+}
+.gradient1 {
+  background: linear-gradient(97.24deg, #00ffc2 44.36%, #46de43 95.01%), #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.text-\[74px\] {
+  font-size: 74px !important;
+}
+.mt-14 {
+  margin-top: 3.5rem !important;
+}
+.seprs {
+  justify-content: center;
+  align-items: center;
+}
+.gradient2 {
+  background: linear-gradient(97.24deg, #ff7a00 44.36%, #de4343 95.01%), #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.py-28 {
+  padding-top: 7rem !important;
+  padding-bottom: 7rem !important;
+}
+.start-blk {
+  box-sizing: border-box;
+  display: inline-block;
+  overflow: hidden;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  max-width: 100%;
+
+  
+}
+
+.start-blk2 {
+  box-sizing: border-box;
+  display: block;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+
+  
+}
+.data1 {
+  display: block;
+  max-width: 100%;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+.mbl-graph {
+ position: absolute;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: none;
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+.bottom-0 {
+  bottom: 0 !important;
+}
+.left-4 {
+  left: 1rem !important;
+}
+.text-3xl {
+  font-size: 1.575rem !important;
+  line-height: 2.25rem !important;
+}
+.bg-gamefiDark-900 {
+  /*background-color: #0b0b0f;*/
+}
+.rounded2 {
+  background-color: #F7931A;
+  border-radius: 0.2rem !important;
+}
+.maxtso{
+    width: 100%;
+}
+.maxtso img{
+    width: 100%;
+}
+.top-4 {
+  top: 1rem !important;
+}
+.mt-20 {
+  margin-top: 5rem !important;
+
+}
+@media (max-width: 1024px) {
+  .for-large {
+    display: none !important;
+  }
+}
+@media (min-width: 375px) {
+  .new-container {
+    max-width: 375px;
+  }
+}
+@media (min-width: 640px) {
+  .new-container {
+    max-width: 640px;
+  }
+}
+@media (min-width: 960px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 960px;
+  }
+  .new-container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1024px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1024px;
+  }
+  .new-container {
+    max-width: 1024px;
+  }
+   
+  .lg\:left-10 {
+    left: 2.5rem !important;
+  }
+  .lg\:px-16 {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+  }
+  .lg\:hidden {
+    display: none !important;
+  }
+}
+@media (min-width: 1280px) {
+  .xl\:text-\[84px\] {
+    font-size: 74px !important;
+  }
+  .new-container {
+    max-width: 1280px;
+  }
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1280px;
+}
+}
+@media (min-width: 1300px) {
+  .new-container {
+    max-width: 1300px;
+  }
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1300px;
+}
+}
+@media (min-width: 1440px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1440px;
+  }
+  .new-container {
+    max-width: 1440px;
+  }
+}
+@media (min-width: 1536px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1536px;
+  }
+  .new-container {
+    max-width: 1536px;
+  }
+}
+@media (min-width: 1800px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 1800px;
+  }
+  .new-container {
+    max-width: 1800px;
+  }
+}
+@media (min-width: 2000px) {
+  .md\:container:not(#\#):not(#\#) {
+    max-width: 2000px;
+  }
+  .new-container {
+    max-width: 2000px;
+  }
+}
+
+@media (max-width:700px) {
+    .text-\[60px\]{font-size: 45px !important;}
+    
+}

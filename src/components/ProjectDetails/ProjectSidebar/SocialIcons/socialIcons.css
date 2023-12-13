@@ -1,0 +1,19 @@
+.shom{
+    display: none;
+}
+.s-align{
+    align-items: baseline;
+    padding: 0 !important;
+}
+@media (max-width:1024px) {
+    .shom{
+        display: block;
+    }
+    
+    .desktp{
+        display: none;
+    }
+    .sm-pad{
+        padding-left: 0 !important;
+    }
+}

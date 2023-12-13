@@ -1,0 +1,64 @@
+.modalHeader button{
+    background: none;
+    border: 0px;
+    color: white;
+}
+
+.modal-header button span {
+    font-size: 40px !important;
+}  
+
+#contained-modal-title-vcenter {
+    color: white
+}
+
+.modalHeader{
+    border: 2px solid  #651FFF;
+    border-bottom: none;
+    background: #311B92 !important;
+    color: white !important;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    background: linear-gradient(180deg,#f7f8ff,#fff6ff);
+    background-image: linear-gradient(rgb(247, 248, 255), rgb(255, 246, 255));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    color: #170d69;
+}
+
+.dialog-style{
+    border: 2px solid  #651FFF;
+    border-top: none;
+    background: #311B92 !important;
+    color: white !important;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    background: linear-gradient(180deg,#f7f8ff,#fff6ff);
+    background-image: linear-gradient(rgb(247, 248, 255), rgb(255, 246, 255));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    color: #170d69;
+}
+
+.walletbutton{
+    background: #651fff!important;
+    border-radius: 8px;
+    padding: 10px 8px;
+    width: 100%;
+    border: 0px;
+    color: white;
+}

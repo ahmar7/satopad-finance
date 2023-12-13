@@ -1,0 +1,1398 @@
+.btn-equal {
+  height: 50px !important;
+}
+
+.css-9xd9rb .governance-landing-benefits-rect-right {
+  display: none;
+  position: absolute;
+  right: -12px;
+  top: 29%;
+  -webkit-transform: translateY("-50%");
+  -ms-transform: translateY("-50%");
+  transform: translateY("-50%");
+  -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  color: #5a5c75;
+}
+.css-112i1sb {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: unset;
+}
+
+.css-9xd9rb .governance-landing-benefits-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: unset;
+  -webkit-justify-content: unset;
+  -ms-flex-pack: unset;
+  justify-content: unset;
+  position: relative;
+  margin-bottom: unset;
+  padding-top: unset;
+}
+
+.css-9xd9rb .governance-landing-benefits-header a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.css-9xd9rb .governance-landing-benefits-header button {
+  width: 100%;
+  height: 40px;
+}
+
+.css-9xd9rb .governance-landing-benefits-header button svg {
+  margin-left: 4px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.css-9xd9rb .governance-landing-benefits-header button:hover svg {
+  margin-left: 8px;
+}
+
+.css-9xd9rb .governance-landing-benefits-logo {
+  pointer-events: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: 140% 110%;
+  background-image: url(https://static.apollox.com/cloud-futures/static/images/futures/assets/dex/governance/landing-benefits-bg.png);
+  background-position: center center;
+  position: relative;
+  top: unset;
+  right: unset;
+  left: unset;
+  -webkit-transform: unset;
+  -ms-transform: unset;
+  transform: unset;
+  width: 100%;
+  height: 328px;
+  margin-top: -28px;
+  margin-bottom: -30px;
+}
+
+.css-9xd9rb .governance-landing-benefits-logo div {
+  width: 180px;
+  height: 145px;
+}
+
+.css-9xd9rb .governance-landing-benefits-logo div svg {
+  pointer-events: none;
+  -webkit-transform: translate3d(0px, 0px, 0px) scale(1.5) !important;
+  -ms-transform: translate3d(0px, 0px, 0px) scale(1.5) !important;
+  transform: translate3d(0px, 0px, 0px) scale(1.5) !important;
+}
+
+.css-9xd9rb .governance-landing-benefits-list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  word-break: break-word;
+}
+
+.css-9xd9rb .governance-landing-benefits-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-width: 100%;
+  text-align: left;
+}
+
+.css-9xd9rb .governance-landing-benefits-item-stats {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  gap: unset;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.css-o54pln {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  line-height: 20px;
+  min-width: 52px;
+  word-break: keep-all;
+  color: #f0f0f5;
+  border-radius: 4px;
+  min-height: 24px;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  background-color: #3b3d59;
+  background-color: #3b3d59;
+}
+
+.css-o54pln:disabled {
+  cursor: not-allowed;
+  box-shadow: none;
+  color: #696b82;
+  background-color: #2d2e3f;
+}
+
+.css-o54pln:hover:not(:disabled):not(:active) {
+  box-shadow: none;
+}
+
+.css-o54pln.inactive {
+  background-color: #3b3d59;
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.css-o54pln:hover:not(:disabled):not(:active):not(.inactive) {
+  box-shadow: none;
+  background-color: #2d2e3f;
+}
+
+.css-o54pln:active:not(:disabled):not(.inactive) {
+  box-shadow: none;
+  background-color: #696b82;
+  color: #f0f0f5;
+}
+.css-9xd9rb .governance-landing-benefits-coming-soon {
+  pointer-events: none;
+  background-image: url(https://static.apollox.com/cloud-futures/static/images/futures/assets/dex/governance/landing-coming-soon.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  max-width: 106px;
+}
+.css-12aqrg4 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  background-color: #3b3d59;
+  padding: 6px 12px;
+  border-radius: 4px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.css-9wj43q {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #584cea;
+}
+.css-nxqonr {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #f0f0f5;
+  margin-bottom: 4px;
+}
+.css-1nkqv4g {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  color: #f0f0f5;
+}
+.css-1rjnhs8 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #72768f;
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  fill: #f0f0f5;
+  fill: #72768f;
+  width: 1em;
+  height: 1em;
+  margin-left: 4px;
+}
+@media screen and (min-width: 767px) {
+  .css-1nkqv4g {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1nkqv4g {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-nxqonr {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+  }
+}
+.css-9xd9rb .out-link {
+  color: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+.css-4cffwv {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.css-9xd9rb .out-link:hover .out-link-svg {
+  -webkit-transform: translate3d(4px, 0, 0);
+  -ms-transform: translate3d(4px, 0, 0);
+  transform: translate3d(4px, 0, 0);
+}
+.css-n7tore {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #72768f;
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  fill: #f0f0f5;
+  fill: #72768f;
+}
+.css-9xd9rb .out-link .out-link-svg {
+  -webkit-transition: 0.2s all ease;
+  transition: 0.2s all ease;
+}
+.css-16p0xkh {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #7e9aff;
+  margin-bottom: 0;
+}
+.css-179ahrg {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #72768f;
+  margin-bottom: 16px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-179ahrg {
+    margin-bottom: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-179ahrg {
+    margin-bottom: 18px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-16p0xkh {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+  }
+}
+.css-9xd9rb .governance-landing-benefits-coming-soon > div {
+  background: linear-gradient(
+    93.96deg,
+    rgba(224, 95, 187, 0.8) 0.76%,
+    rgba(66, 80, 244, 0.8) 100.57%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 16px;
+}
+.css-y2ztui {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 32px;
+  max-width: 262px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.css-19vob4g {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.css-9yla5v {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: none;
+}
+.css-n3nj1z {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #F7932A;
+  margin-bottom: 32px;
+  text-align: left;
+  margin-top: -18px;
+  width: unset;
+}
+.css-1j8ayyd {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: left;
+  margin-right: unset;
+  margin-bottom: 28px;
+}
+.css-1anr90r {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: currentColor;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  fill: #f0f0f5;
+  fill: currentColor;
+  position: relative;
+  top: 4px;
+  width: 1em;
+  height: 1em;
+  min-width: 24px;
+  margin-right: 12px;
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1anr90r {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1anr90r {
+    display: block;
+  }
+}
+.css-1hzvpag {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.css-uliqdc {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.css-130o8im {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 8px;
+}
+.css-16opcdy {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #f0f0f5;
+  margin-bottom: unset;
+}
+
+@media screen and (min-width: 767px) {
+  .css-16opcdy {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 4px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-1j8ayyd {
+    margin-right: 65px;
+    margin-bottom: unset;
+  }
+}
+.css-xgau1d {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: currentColor;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  fill: #f0f0f5;
+  fill: currentColor;
+  position: relative;
+  top: 4px;
+  width: 1em;
+  height: 1em;
+  min-width: 24px;
+  margin-right: 14px;
+  display: none;
+}
+
+@media screen and (min-width: 767px) {
+  .css-xgau1d {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-xgau1d {
+    display: block;
+  }
+}
+
+.css-9xd9rb .governance-landing-benefits-header button {
+  width: 100%;
+  height: 40px;
+}
+.css-r25z49 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  line-height: 20px;
+  min-width: 52px;
+  word-break: keep-all;
+  color: #ffffff;
+  border-radius: 4px;
+  min-height: 24px;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  background-image: linear-gradient(90deg, #e05fbb -28.61%, #4250f4 100%);
+  background-color: #6b78ee;
+}
+.css-1v6yiiv {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 32px;
+  padding-right: 32px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1v6yiiv {
+    padding-left: unset;
+    padding-right: 32px;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1v6yiiv {
+    padding-right: unset;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+.css-9xd9rb .governance-landing-benefits-header button svg {
+  margin-left: 4px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.css-aw5qf7 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: transparent;
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  fill: #f0f0f5;
+  fill: transparent;
+  position: relative;
+  top: -2px;
+  margin-left: 4px;
+}
+.css-7p4pfa {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: none;
+  min-width: 61px;
+  width: 61px;
+  height: 48px;
+  margin-right: 32px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-7p4pfa {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-7p4pfa {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-7p4pfa {
+    margin-right: 32px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-7p4pfa {
+    margin-right: 40px;
+  }
+}
+.css-1ry22wm {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid;
+  border-bottom-color: #3b3d59;
+  width: unset;
+  padding: 0 0 32px 0;
+  margin: 0 32px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.css-3fwdku {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 58px;
+  height: 39px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-3fwdku {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-3fwdku {
+    display: none;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-1ry22wm {
+    width: 100%;
+    padding: 0 32px 56px 0;
+    margin: unset;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1ry22wm {
+    padding: 0 0 56px 0;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+.css-10pdk1q {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: left;
+  margin-right: unset;
+  max-width: unset;
+  min-width: unset;
+}
+
+@media screen and (min-width: 767px) {
+  .css-10pdk1q {
+    margin-right: unset;
+    max-width: 516px;
+    min-width: unset;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-10pdk1q {
+    margin-right: 80px;
+    max-width: 360px;
+    min-width: 360px;
+  }
+}
+.css-fx9tn0 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 49px;
+  height: 39px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-fx9tn0 {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-fx9tn0 {
+    display: none;
+  }
+}
+.css-18owyug {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 8px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-top: -20px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-18owyug {
+    margin-bottom: 16px;
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-18owyug {
+    margin-bottom: 12px;
+  }
+}
+.css-1wa4c70 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  color: #f0f0f5;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1wa4c70 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1wa4c70 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+  }
+}
+.css-iewdk7 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #7e9aff;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-iewdk7 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-iewdk7 {
+    margin-bottom: 24px;
+  }
+}
+.css-3hdxq3 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: baseline;
+  -webkit-box-align: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+}
+.css-1v7bny7 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  color: #ff5ab5;
+}
+
+@media screen and (min-width: 767px) {
+  .css-1v7bny7 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-1v7bny7 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+  }
+}
+.css-m5gimw {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.css-ggvcnp {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 28px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 767px) {
+  .css-ggvcnp {
+    margin-top: 40px;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-ggvcnp {
+    margin-top: unset;
+  }
+}
+.css-1fwham2[data-popper-placement^="right"] > .gap-fill {
+  top: 0;
+  left: -8px;
+  width: 8px;
+  height: 100%;
+}
+.css-1xloj19 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #72768f;
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  fill: #f0f0f5;
+  fill: #72768f;
+  width: 1em;
+  height: 16px;
+}
+.css-883xeg {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: left;
+}
+.css-p6bfns {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #72768f;
+}
+.css-egt1ma {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  margin-top: 39px;
+  -webkit-box-pack: unset !important;
+  -webkit-justify-content: unset !important;
+  -ms-flex-pack: unset !important;
+  justify-content: unset !important;
+}
+
+@media screen and (min-width: 767px) {
+  .css-egt1ma {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-egt1ma {
+    margin-top: 60px;
+  }
+}
+.css-m5gimw .bn-tooltip-box {
+  white-space: pre-line;
+}
+.css-1fwham2 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  box-sizing: content-box;
+  position: absolute;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  word-break: normal;
+  z-index: 1400;
+  max-width: 296px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #ffffff;
+  background-color: #5a5c75;
+  border-radius: 4px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(20, 21, 26, 0.08))
+    drop-shadow(0px 7px 14px rgba(71, 77, 87, 0.08))
+    drop-shadow(0px 0px 1px rgba(20, 21, 26, 0.1));
+  filter: drop-shadow(0px 3px 6px rgba(20, 21, 26, 0.08))
+    drop-shadow(0px 7px 14px rgba(71, 77, 87, 0.08))
+    drop-shadow(0px 0px 1px rgba(20, 21, 26, 0.1));
+}
+.css-1fwham2 > .gap-fill {
+  position: absolute;
+  display: block;
+}
+.css-1fwham2[data-popper-placement^="top"] > .gap-fill {
+  bottom: -8px;
+  left: 0;
+  width: 100%;
+  height: 8px;
+}
+.css-1fwham2[data-popper-placement^="bottom"] > .gap-fill {
+  top: -8px;
+  left: 0;
+  width: 100%;
+  height: 8px;
+}
+.css-1fwham2[data-popper-placement^="left"] > .gap-fill {
+  top: 0;
+  right: -8px;
+  width: 8px;
+  height: 100%;
+}
+.css-1fwham2 > .gap-fill {
+  position: absolute;
+  display: block;
+}
+.css-1fwham2[data-popper-placement^="top"] > .gap-fill {
+  bottom: -8px;
+  left: 0;
+  width: 100%;
+  height: 8px;
+}
+.css-1fwham2 .bn-tooltip-arrow::before {
+  background-color: #5a5c75;
+}
+@media screen and (min-width: 767px) {
+  .css-9xd9rb .governance-landing-benefits-header button {
+    width: 210px !important;
+    height: 48px;
+  }
+  .css-n3nj1z {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    margin-bottom: 48px;
+    margin-top: -28px;
+    width: 435px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-9xd9rb .governance-landing-benefits-header button {
+    width: 184px;
+    height: 48px;
+  }
+  .css-n3nj1z {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-9yla5v {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-9yla5v {
+    display: block;
+  }
+}
+.css-rf76ov {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 12px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 767px) {
+  .css-rf76ov {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-rf76ov {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-19vob4g {
+    display: none;
+  }
+  .css-y2ztui {
+    margin-left: 92px;
+    max-width: 486px;
+  }
+
+  .css-112i1sb {
+    margin-bottom: 57px;
+  }
+  .css-9xd9rb .governance-landing-benefits-header a {
+    -webkit-flex: unset;
+    -ms-flex: unset;
+    flex: unset;
+  }
+  .css-9xd9rb .governance-landing-benefits-header button {
+    width: 180px;
+    height: 48px;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo {
+    background-size: contain;
+    position: relative;
+    top: unset;
+    right: unset;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 569px;
+    height: 430px;
+    margin-top: -12px;
+    margin-bottom: -20px;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo div {
+    width: 235px;
+    height: 191px;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo div svg {
+    -webkit-transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+    -ms-transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+    transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+  }
+  .css-9xd9rb .governance-landing-benefits-list {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+  .css-9xd9rb .governance-landing-benefits-item {
+    max-width: 100%;
+  }
+  .css-9xd9rb .governance-landing-benefits-item-stats {
+    gap: 54px;
+    -webkit-box-pack: unset;
+    -webkit-justify-content: unset;
+    -ms-flex-pack: unset;
+    justify-content: unset;
+  }
+  .css-9xd9rb .governance-landing-benefits-rect-right {
+    display: block;
+  }
+  .css-9xd9rb .governance-landing-benefits-header {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: unset;
+    -webkit-justify-content: unset;
+    width: 100%;
+    -ms-flex-pack: unset;
+    justify-content: unset;
+    margin-bottom: unset;
+    padding-top: 40px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19vob4g {
+    display: none;
+  }
+  .css-y2ztui {
+    max-width: 475px;
+  }
+  .css-9xd9rb .governance-landing-benefits-item {
+    max-width: 466px;
+  }
+  .css-9xd9rb .governance-landing-benefits-list {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo div svg {
+    -webkit-transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+    -ms-transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+    transform: translate3d(0px, 0px, 0px) scale(1.3) !important;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo div {
+    width: 317px;
+    height: 257px;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo img {
+    width: 300px;
+  }
+  .css-9xd9rb .governance-landing-benefits-logo {
+    background-size: contain;
+    position: absolute;
+    top: -96px;
+    right: 0px;
+    /* left: unset; */
+    -webkit-transform: unset;
+    -ms-transform: unset;
+
+    transform: unset;
+    width: 765px;
+    height: 578px;
+    margin-top: unset;
+    margin-bottom: unset;
+  }
+  .css-9xd9rb .governance-landing-benefits-header button {
+    width: 210px;
+    height: 48px;
+  }
+  .css-9xd9rb .governance-landing-benefits-header a {
+    -webkit-flex: unset;
+    -ms-flex: unset;
+    flex: unset;
+  }
+  .css-9xd9rb .governance-landing-benefits-header {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 138px;
+    padding-top: 52px;
+  }
+  .css-9xd9rb .governance-landing-benefits-rect-right {
+    display: none;
+  }
+  .css-112i1sb {
+    margin-bottom: 104px;
+  }
+}
+@media (max-width: 1280px) {
+  .Planet img {
+    width: 270px;
+  }
+}
+.css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+  position: absolute;
+  right: 0;
+  width: unset;
+  display: none;
+  top: 0;
+}
+
+@media screen and (min-width: 767px) {
+  .css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+    width: 33px;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-9xd9rb .governance-landing-benefits-rect-angle-2 {
+    width: 48px;
+    display: block;
+  }
+}
+@media (max-width: 767px) {
+  .governance-landing-benefits-header {
+    width: 100% !important;
+    gap: 20px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-k60thd {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+  }
+}

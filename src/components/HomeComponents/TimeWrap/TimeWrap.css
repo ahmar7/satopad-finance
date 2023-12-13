@@ -1,0 +1,87 @@
+.partners-title {
+  font-size: 50px !important;
+}
+
+.timer-values {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  --highlight-color: var(--color-text-violet);
+}
+.timer-values__item {
+  margin: 0 1rem;
+}
+.timer-values__item .value {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 125%;
+  color: var(--highlight-color);
+  text-align: center;
+}
+.timer-values__item.seconds .value {
+  color: var(--color-text-white-transparantize);
+}
+.timer-values__item .name {
+  line-height: 144%;
+  text-align: center;
+  text-transform: capitalize;
+}
+.timer-wrap {
+  position: relative;
+}
+.timer-blur {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 80;
+  background-size: 100%;
+  background-position: 50%;
+  background-image: linear-gradient(
+    178.08deg,
+    hsla(0, 0%, 76.9%, 0) 1.57%,
+    hsla(0, 0%, 76.9%, 0.0067) 13.92%,
+    hsla(0, 0%, 76.9%, 0.01) 47.92%,
+    hsla(0, 0%, 76.9%, 0.01) 81.29%,
+    hsla(0, 0%, 76.9%, 0) 98.38%
+  );
+}
+@supports (
+  (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
+) {
+  .timer-blur {
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+  }
+}
+@supports not (
+  (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
+) {
+  .timer-blur {
+    background-color: rgba(27, 28, 31, 0.96);
+  }
+}
+.timer-fog {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 90;
+}
+.timer-wrap .timer {
+  max-width: 600px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+@media (max-width:900px) {
+  .partnerships{
+    padding-top: 60px !important;
+    padding-bottom: 20px !important;
+  }
+  
+}

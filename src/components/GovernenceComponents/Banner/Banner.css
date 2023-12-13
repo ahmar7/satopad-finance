@@ -1,0 +1,401 @@
+.css-19g42lq {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100vw;
+  margin: 0 auto;
+  margin-top: 35px;
+  margin-bottom: 66px;
+}
+.css-skkjos {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 16px;
+  opacity: 0.6;
+  font-weight: 400;
+  line-height: 24px;
+  color: #f0f0f5;
+  width: 335px;
+}
+.css-uv48zn {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  line-height: 24px;
+  min-width: 80px;
+  word-break: keep-all;
+  color: #ffffff;
+  border-radius: 4px;
+  min-height: 24px;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  background-image: linear-gradient(90deg, #e05fbb -28.61%, #4250f4 100%);
+  background-color: #6b78ee;
+  width: 215px;
+}
+
+.css-uv48zn:disabled {
+  cursor: not-allowed;
+  background-image: none;
+  background-color: #2d2e3f;
+  color: #696b82;
+}
+.css-1b13r3e {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  line-height: 20px;
+  color: #5a5c75;
+}
+.css-uv48zn:hover:not(:disabled):not(:active) {
+  box-shadow: none;
+}
+
+.css-uv48zn.inactive {
+  background-color: #6b78ee;
+  opacity: 0.3;
+  color: #ffffff;
+  cursor: not-allowed;
+}
+.css-1ebs9p {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #584cea;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin-top: 40px;
+}
+.x-box-inner {
+  overflow: visible;
+  background-color: #000;
+}
+.css-uv48zn:hover:not(:disabled):not(:active):not(.inactive) {
+  box-shadow: none;
+  background-image: linear-gradient(94.64deg, #e08de4 -19.85%, #4d51e3 100%);
+  background-color: #6b78ee;
+  opacity: 0.9;
+}
+
+.css-uv48zn:active:not(:disabled):not(.inactive) {
+  background-image: none;
+  background-color: #584cea;
+}
+
+.css-uv48zn:disabled:not(.inactive) {
+  background-color: #3b3d59;
+  color: #696b82;
+  cursor: not-allowed;
+}
+
+@media screen and (min-width: 767px) {
+  .css-uv48zn {
+    width: 200px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-skkjos {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 623px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-skkjos {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 623px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .css-19g42lq {
+    width:100%;
+    margin-top: 41px;
+    margin-bottom: 64px;
+  }
+  .css-1b13r3e {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq {
+    width: 100%;
+    margin-top: 65px;
+    margin-bottom: 72px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-subtitle {
+  position: relative;
+}
+
+.css-19g42lq .governance-landing-header-subtitle:before {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  background-color: #5a5c75;
+  top: 12px;
+  left: -16px;
+}
+
+.css-19g42lq .governance-landing-header-subtitle:after {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  background-color: #5a5c75;
+  top: 12px;
+  right: -16px;
+}
+
+.css-19g42lq .governance-landing-header-main-title {
+  color: #F7931A !important;
+  -webkit-background-clip: text;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 48px;
+  line-height: 56px;
+  font-weight: 900;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-main-title {
+    margin-top: 28px;
+    margin-bottom: 24px;
+    font-size: 64px;
+    line-height: 75px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-main-title {
+    margin-top: 28px;
+    margin-bottom: 24px;
+    font-size: 80px;
+    line-height: 95px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-rect-angle-1 {
+  position: absolute;
+  left: 0;
+  display: none;
+  top: 12px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-rect-angle-1 {
+    display: block;
+    top: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-rect-angle-1 {
+    display: block;
+    top: 12px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-rect-angle-2 {
+  position: absolute;
+  right: 0;
+  display: none;
+  top: 12px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-rect-angle-2 {
+    display: block;
+    top: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-rect-angle-2 {
+    display: block;
+    top: 12px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-rect-angle-3 {
+  position: absolute;
+  right: 0;
+  display: none;
+  bottom: 12px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-rect-angle-3 {
+    display: block;
+    bottom: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-rect-angle-3 {
+    display: block;
+    bottom: 12px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-rect-angle-4 {
+  position: absolute;
+  left: 0;
+  display: none;
+  bottom: 12px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-rect-angle-4 {
+    display: block;
+    bottom: 12px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-rect-angle-4 {
+    display: block;
+    bottom: 12px;
+  }
+}
+
+.css-19g42lq .governance-landing-header-actions {
+  gap: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  padding-left: 18px;
+  padding-right: 18px;
+  width: 100%;
+}
+
+.css-19g42lq .governance-landing-header-actions a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-actions a {
+    -webkit-flex: unset;
+    -ms-flex: unset;
+    flex: unset;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-actions a {
+    -webkit-flex: unset;
+    -ms-flex: unset;
+    flex: unset;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-actions {
+    padding-left: unset;
+    padding-right: unset;
+    width: unset;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-actions {
+    padding-left: unset;
+    padding-right: unset;
+    width: unset;
+  }
+}
+
+.css-19g42lq .governance-landing-header-actions button {
+  width: 100%;
+  height: 40px;
+}
+
+@media screen and (min-width: 767px) {
+  .css-19g42lq .governance-landing-header-actions button {
+    width: 180px;
+    height: 48px;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  .css-19g42lq .governance-landing-header-actions button {
+    width: 216px;
+    height: 48px;
+  }
+}

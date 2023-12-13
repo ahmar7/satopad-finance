@@ -1,0 +1,14 @@
+@media (max-width:1024px) {
+    .paragraphs{
+        margin-left: 0 !important;
+    }
+}
+@media (max-width:1690px) {
+    .solaso{
+        width: 100% !important;
+    }
+    
+}
+.nuxt-link-active {
+    color: #F7931A !important;
+}

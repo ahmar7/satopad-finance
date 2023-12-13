@@ -1,0 +1,106 @@
+.project-bg-color {
+    background: #1e110e !important;
+}
+
+.pool-live {
+    background: #5cc88d;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    transform: translateY(-1px);
+    display: inline-block;
+    font-family: SpaceMono,sans-serif!important;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+.pool-upcoming {
+    background: #fff3cd;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    color: black;
+    line-height: 16px;
+    transform: translateY(-1px);
+    display: inline-block;
+    font-family: SpaceMono,sans-serif!important;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+.pool-popular {
+    background: #F7931A;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    transform: translateY(-1px);
+    display: inline-block;
+    font-family: SpaceMono,sans-serif!important;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+.social-icon {
+    background-color: #f7931a;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.projects-pool-status {
+    color: white;
+}
+
+.bg-notification {
+    background-color: #f7931a !important;
+}
+
+.projects-pool-amount {
+    color: white;
+    font-weight: bold;
+}
+
+.projects-pool-content {
+    color: white;
+}
+
+.projects-pool-sub {
+    color: white;
+    font-weight: bold;
+}
+
+.projects-pool-header {
+    color: white;
+    font-size: 1.6rem !important;
+    font-weight: bold;
+}
+
+.projects-pool-tags {
+    color: white !important;
+    font-weight: 500;
+}
+
+.pb-pool {
+    padding-bottom: 10px;
+}
+
+.bg-con2{
+    background-image: url("../../../../assets/img/syncera-ido.png");
+}.bg-new { 
+    background-color: rgb(255 245 240 );
+}
+.hover:hover{
+ transform: scale(1.01);
+    transition: all 0.3s ease !important;
+}

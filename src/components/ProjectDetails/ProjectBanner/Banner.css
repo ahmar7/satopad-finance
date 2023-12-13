@@ -1,0 +1,22 @@
+.banner-position {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.banner-private {
+    border-radius: 20px;
+}
+
+.bg-log{
+     background-image: url("https://static.solanium.com/media/projects/reign_of_terror_header.png");
+}
+
+.top-margin{
+    margin-top: 8rem;
+}
+
+.top-padding{
+    padding-top: 8rem;
+}
+

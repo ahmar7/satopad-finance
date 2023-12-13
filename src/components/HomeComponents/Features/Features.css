@@ -1,0 +1,109 @@
+.btn-disabled {
+  opacity: 0.6 !important;
+}
+
+.btn-disabled:hover {
+  opacity: 0.6;
+}
+
+.homepage .features-section {
+  margin-bottom: 115px;
+  z-index: 2;
+}
+.leaderboard-page .features-section {
+  margin-bottom: 80px;
+}
+.features-section .row {
+  --bs-gutter-x: 2rem;
+  --bs-gutter-y: 2rem;
+}
+.features-item {
+  background-color: #704232 !important;
+  -webkit-backdrop-filter: blur(200px);
+  backdrop-filter: blur(200px);
+  box-shadow: inset 2px 2px 2px hsla(0, 0%, 100%, 0.15);
+  border-radius: 24px;
+  padding: 31px;
+  height: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  width: 400px;
+}
+.features-item__content {
+  padding-left: 145px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+@media (max-width: 1399px) {
+  .features-item {
+    background-size: 100% 100%;
+    padding: 24px;
+    width: 350px;
+    margin: auto;
+  }
+  .features-item__content {
+    padding-left: 125px;
+  }
+}
+.features-item__title {
+  margin-bottom: 16px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.26;
+}
+.features-item__text {
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+
+.features-item--buy .features-item__content {
+  display: flex;
+  flex-direction: column;
+}
+.features-item--buy .round-button img {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+.features-item--buy .round-button.btn {
+  padding: 11px 16px;
+  text-align: left;
+}
+.features-item--buy .round-button + .round-button {
+  margin-top: 12px;
+}
+
+.leaderboard-page__features-title {
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+}
+.leaderboard-page__features-title .round-button {
+  margin-left: 16px;
+  padding: 0;
+  width: 54px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.leaderboard-page__features-title .round-button:hover {
+  background: hsla(0, 0%, 100%, 0.35);
+}
+.leaderboard-page .features-section {
+  margin-bottom: 80px;
+}
+@media (max-width: 400px) {
+  .features-item__content {
+    padding-left: 90px !important;
+  }
+  .features-item {
+    width: 312px !important;
+  }
+}

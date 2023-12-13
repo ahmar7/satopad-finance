@@ -1,0 +1,89 @@
+.syncera-box {
+  --tw-bg-opacity: .1;
+  background-color: #704232 !important;
+  border-radius: 20px;
+  padding: 30px;
+  position: relative;
+}
+
+.staking .stat-label {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.staking .stat-label,
+.staking .stat-value {
+  color: white !important
+}
+
+.staking .stat-value {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 2.5rem;
+}
+
+.staking .stake-details .label {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  margin-bottom: 0 !important;
+}
+.label-{
+    margin-bottom: 0 !important;
+}
+.value .lg\:text-3xl{
+    font-weight: 800;
+}
+.staking .stake-details .value {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}.font-inter-black{
+    font-weight: 800;
+}
+
+.staking .stake-details .small-label {
+  display: inline-block;
+
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1rem;
+}
+.d-inline {
+  display: inline;
+}
+
+.staking .stake-details .add-label {
+  --tw-text-opacity: 1;
+  color: #1e110e;
+  display: block;
+  font-size: 0.75rem;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 1rem;
+}
+@media (min-width: 768px) {
+  .staking .stake-details .small-label {
+    display: block;
+  }
+}
+
+@media (min-width: 1024px) {
+  .staking .stake-details .small-label {
+    display: inline-block;
+  }
+}
+
+@media (min-width: 640px) {
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (max-width: 1050px) {
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 639px) {
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+}

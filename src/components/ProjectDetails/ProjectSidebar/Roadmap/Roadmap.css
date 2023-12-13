@@ -1,0 +1,35 @@
+.bg-shield {
+    background: #704232;
+}
+
+.to-syncera-bright-blue {
+    --tw-gradient-to: #ff9393 !important;
+}
+
+.from-green-gradient-from {
+    --tw-gradient-from: #c4a2ff !important;
+    --tw-gradient-to: rgba(12,234,204,0);
+    --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to);
+}
+
+.bg-purple-700 {
+    --tw-bg-opacity: 1;
+    background: #704232 !important;
+}
+
+.bg-syncera {
+    --tw-bg-opacity: 1;
+    background-color: #704232 !important;
+}
+
+.border-purple-700 {
+    --tw-border-opacity: 1;
+    border: 1.75px solid #704232 !important;
+}
+
+@media (max-width:1024px) {
+    .sm-center{
+    align-content:  center;
+}
+    
+}
